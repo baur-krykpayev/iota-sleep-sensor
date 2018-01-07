@@ -5,4 +5,5 @@ Also, this sensor will be designed to sell the information using IOTA technology
 Technologies to be used:
 - sensors - temperature, humidity, light, noise
 - bluetooth or WIFI phone connectivity
+- Amazon FreeRtos 
 - IOTA selling information
