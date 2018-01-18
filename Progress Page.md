@@ -12,4 +12,10 @@ This progress page will be used to document my progress in getting things done
 
 ## 3. By 1/17/2018:
 - debugged the code, but still cant get publish anything onto the iot.
+- finally was able to send messages to AWS IOT test console URAAAA!!!
+
+## Next goals:
+- read out pressure data in task
+	- how freertos works?
+	- go over manual for stm32
 
