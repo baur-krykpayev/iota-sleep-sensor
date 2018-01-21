@@ -101,4 +101,5 @@ bin/*
 lin/*
 Default/*
 RemoteSystemsTempFiles/*
+Debug/*
 /Debug/
